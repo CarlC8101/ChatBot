@@ -1,7 +1,7 @@
 # ChatBot
 
 Hello, this is a Chat Bot from Cheng, Chao Hsuan
-I got this idea and insperation from Python Engineer. I really appriciate it.
+I got this idea and inspiration from Python Engineer. I really appriciate it.
 
 OK then lets get started.
 This Chat bot is made for students who would like to apply GMU but have some essential question like due date of application, scholarship, or procedure etc.
